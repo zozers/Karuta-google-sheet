@@ -6,7 +6,7 @@
 * Fill in the secrets listed in the .env **(the google_json should be the json generated for a service [account](https://pygsheets.readthedocs.io/en/stable/authorization.html))**
 
 # Start
-To start the app type python bot.py
+To start the app type `$ python bot.py` in your terminal
 
 # Commands
 
